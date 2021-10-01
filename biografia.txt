@@ -2,4 +2,6 @@ Mi nombre: Juan Perez. Soy Programador, en mi tiempo libre estudio en Platzi, es
 
 Este archivo cambio un día después de la versión original.
 
-Una nueva modificación, un día después y 5 días luego de la edición de la línea 3.
+Una nueva modificación, un día después y 5 minutos luego de la edición de la línea 3.
+
+Una nueva modificación, un día después y 5 minutos luego de la edición de la línea 5.
