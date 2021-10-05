@@ -1,28 +1,43 @@
 body {
     color: #333;
-    text-align: center;
+    background: #333;
     font-family: "Trebushed MS";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+#post_header #logo{
+    width: 25px;
+    vertical-align: middle;
+}
 #post_header{
-    color: #aaa;
-    font-family: "Arial";
-    font-size: 12px;
-    background-color: rgb(16, 16, 70);
-    padding: 1em;
+    color: #fff;
+    font-family: "Trebushed MS";
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #33A;
+    border-radius: 5px 5px 0px 0px;
+    padding: 0.5em 0 0.5em 2em;
+    margin: 0;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+}
+#post_header #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.75em;
 }
 #post_body{
     font-size: 12px;
-    background-color: #aaa;
-    padding: 1em;    
+    background: #fff;
+    padding: 1em;
+    box-shadow: 10px 10px 30px 1px rgba(e, e, e, 0.5);    
 }
 #container {
     width: 70%;
     text-align: left;
     border: 1px solid #aaa;
     margin: 0 auto;
+    border-radius: 6px 6px 0px 0px;
 }
 #container h1 {
     font-size: 15px;
